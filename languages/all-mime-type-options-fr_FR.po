@@ -1,0 +1,304 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: All Mime Type Options\n"
+"POT-Creation-Date: 2017-07-15 00:00+0200\n"
+"PO-Revision-Date: 2017-07-15 00:01+0200\n"
+"Last-Translator: Martin Stehle <m.stehle@gmx.de>\n"
+"Language-Team: Martin Stehle <m.stehle@gmx.de>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all-mime-type-options.php:70
+#, php-format
+msgid "Manage %s"
+msgstr "Gérer les %s"
+
+#: all-mime-type-options.php:71
+#, php-format
+msgid "%s file"
+msgstr "Fichier %s"
+
+#: all-mime-type-options.php:72
+#, php-format
+msgid "%s files"
+msgstr "Fichiers %s"
+
+# 1: name 2: medium type
+# e.g. 'JPEG Image File'
+#: all-mime-type-options.php:74
+#, php-format
+msgid "%1$s %2$s file"
+msgstr "Fichier %2$s %1$s"
+
+# 1: name 2: medium type
+# e.g. 'JPEG Image Files'
+#: all-mime-type-options.php:75
+#, php-format
+msgid "%1$s %2$s files"
+msgstr "Fichiers %2$s %1$s"
+
+#: all-mime-type-options.php:94
+msgid "Matroska"
+msgstr "Matroska"
+
+#: all-mime-type-options.php:96
+msgid "Quicktime"
+msgstr "Quicktime"
+
+#: all-mime-type-options.php:98
+msgid "RealAudio"
+msgstr "RealAudio"
+
+#: all-mime-type-options.php:122
+msgid "Plain text"
+msgstr "Texte brut"
+
+#: all-mime-type-options.php:125
+msgid "CSV"
+msgstr "CSV"
+
+#: all-mime-type-options.php:128
+msgid "TSV"
+msgstr "TSV"
+
+#: all-mime-type-options.php:131
+msgid "Calendar"
+msgstr "Calendar"
+
+#: all-mime-type-options.php:134
+msgid "RichText"
+msgstr "RichText"
+
+#: all-mime-type-options.php:137
+msgid "CSS"
+msgstr "CSS"
+
+#: all-mime-type-options.php:140
+msgid "HTML"
+msgstr "HTML"
+
+#: all-mime-type-options.php:143
+msgid "WebTTV"
+msgstr "WebTTV"
+
+#: all-mime-type-options.php:146
+msgid "TTAF"
+msgstr "TTAF"
+
+#: all-mime-type-options.php:149
+msgid "RTF"
+msgstr "RTF"
+
+#: all-mime-type-options.php:152
+msgid "Javascript"
+msgstr "Javascript"
+
+#: all-mime-type-options.php:155
+msgid "PDF"
+msgstr "PDF"
+
+#: all-mime-type-options.php:158
+msgid "Java"
+msgstr "Java"
+
+#: all-mime-type-options.php:161
+msgid "EXE"
+msgstr "EXE"
+
+#: all-mime-type-options.php:164
+msgid "Shockwave Flash"
+msgstr "Shockwave Flash"
+
+#: all-mime-type-options.php:167
+msgid "TAR"
+msgstr "TAR"
+
+#: all-mime-type-options.php:170
+msgid "ZIP"
+msgstr "ZIP"
+
+#: all-mime-type-options.php:173
+msgid "GZIP"
+msgstr "GZIP"
+
+#: all-mime-type-options.php:176
+msgid "RAR"
+msgstr "RAR"
+
+#: all-mime-type-options.php:179
+msgid "7z"
+msgstr "7z"
+
+#: all-mime-type-options.php:182
+msgid "Octet-stream"
+msgstr "Octet-stream"
+
+#: all-mime-type-options.php:185
+msgid "MS Word"
+msgstr "MS Word"
+
+#: all-mime-type-options.php:188
+msgid "MS PowerPoint"
+msgstr "MS PowerPoint"
+
+#: all-mime-type-options.php:191
+msgid "MS Write"
+msgstr "MS Write"
+
+#: all-mime-type-options.php:194
+msgid "MS Excel"
+msgstr "MS Excel"
+
+#: all-mime-type-options.php:197
+msgid "MS Access"
+msgstr "MS Access"
+
+#: all-mime-type-options.php:200
+msgid "MS Project"
+msgstr "MS Project"
+
+#: all-mime-type-options.php:203
+msgid "MS Word 2007 document"
+msgstr "MS Word 2007 Document"
+
+#: all-mime-type-options.php:206
+msgid "MS Word 2007 macro-enabled document"
+msgstr "MS Word 2007 Document prenant en charge les macros"
+
+#: all-mime-type-options.php:209
+msgid "MS Word 2007 template"
+msgstr "MS Word 2007 Modèle"
+
+#: all-mime-type-options.php:212
+msgid "MS Word 2007 macro-enabled template"
+msgstr "MS Word 2007 Modèle de document prenant en charge les macros"
+
+#: all-mime-type-options.php:215
+msgid "MS Excel 2007 workbook"
+msgstr "MS Excel 2007 Classeur"
+
+#: all-mime-type-options.php:218
+msgid "MS Excel 2007 macro-enabled workbook"
+msgstr "MS Excel 2007 Classeur prenant en charge les macros"
+
+#: all-mime-type-options.php:221
+msgid "MS Excel 2007 binary workbook"
+msgstr "MS Excel 2007 Classeur binaire"
+
+#: all-mime-type-options.php:224
+msgid "MS Excel 2007 template"
+msgstr "MS Excel 2007 Modèle"
+
+#: all-mime-type-options.php:227
+msgid "MS Excel 2007 macro-enabled template"
+msgstr "MS Excel 2007 Modèle de classeur prenant en charge les macros"
+
+#: all-mime-type-options.php:230
+msgid "MS Excel 2007 add-in"
+msgstr "MS Excel 2007 Complément"
+
+#: all-mime-type-options.php:233
+msgid "MS PowerPoint 2007 presentation"
+msgstr "MS PowerPoint 2007 Présentation"
+
+#: all-mime-type-options.php:236
+msgid "MS PowerPoint 2007 macro-enabled presentation"
+msgstr "MS PowerPoint 2007 Présentation prenant en charge les macros"
+
+#: all-mime-type-options.php:239
+msgid "MS PowerPoint 2007 slide show"
+msgstr "MS PowerPoint 2007 Diaporama"
+
+#: all-mime-type-options.php:242
+msgid "MS PowerPoint 2007 macro-enabled slide show"
+msgstr "MS PowerPoint 2007 Diaporama prenant en charge les macros"
+
+#: all-mime-type-options.php:245
+msgid "MS PowerPoint 2007 template"
+msgstr "MS PowerPoint 2007 Modèle"
+
+#: all-mime-type-options.php:248
+msgid "MS PowerPoint 2007 macro-enabled template"
+msgstr "MS PowerPoint 2007 Modèle de présentation prenant en charge les macros"
+
+#: all-mime-type-options.php:251
+msgid "MS PowerPoint 2007 add-in"
+msgstr "MS PowerPoint 2007 Complément"
+
+#: all-mime-type-options.php:254
+msgid "MS PowerPoint 2007 slide"
+msgstr "MS PowerPoint 2007 Diapositive"
+
+#: all-mime-type-options.php:257
+msgid "MS PowerPoint 2007 macro-enabled slide"
+msgstr "MS PowerPoint 2007 Diapositive prenant en charge les macros"
+
+#: all-mime-type-options.php:260
+msgid "OneNote"
+msgstr "OneNote"
+
+#: all-mime-type-options.php:263
+msgid "Open XPS"
+msgstr "Open XPS"
+
+#: all-mime-type-options.php:266
+msgid "MS XPS"
+msgstr "MS XPS"
+
+#: all-mime-type-options.php:269
+msgid "OpenDocument text"
+msgstr "OpenDocument Texte formaté"
+
+#: all-mime-type-options.php:272
+msgid "OpenDocument presentation"
+msgstr "OpenDocument Présentation"
+
+#: all-mime-type-options.php:275
+msgid "OpenDocument spreadsheet"
+msgstr "OpenDocument Tableur"
+
+#: all-mime-type-options.php:278
+msgid "OpenDocument drawing"
+msgstr "OpenDocument Dessin"
+
+#: all-mime-type-options.php:281
+msgid "OpenDocument chart"
+msgstr "OpenDocument Diagramme"
+
+#: all-mime-type-options.php:284
+msgid "OpenDocument database"
+msgstr "OpenDocument Base de données"
+
+#: all-mime-type-options.php:287
+msgid "OpenDocument formula"
+msgstr "OpenDocument Formule"
+
+#: all-mime-type-options.php:290
+msgid "WordPerfect"
+msgstr "WordPerfect"
+
+#: all-mime-type-options.php:293
+msgid "Apple Keynote"
+msgstr "Apple Keynote"
+
+#: all-mime-type-options.php:296
+msgid "Apple Numbers"
+msgstr "Apple Numbers"
+
+#: all-mime-type-options.php:299
+msgid "Apple Pages"
+msgstr "Apple Pages"
+
+#~ msgid "Files"
+#~ msgstr "Fichiers"
